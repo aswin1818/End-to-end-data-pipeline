@@ -18,7 +18,7 @@ This project focuses on designing and implementing a data pipeline specifically 
 
 ## Architecture Overview:
 
-The project involves a workflow where data is fetched from the Spotify API and stored in S3 using AWS Lambda. Two S3 buckets—`raw_data` and `transformed_data`—are created accordingly.
+![Architecture](.png)
 
 ## Project Workflow:
 
