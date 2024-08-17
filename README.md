@@ -18,7 +18,7 @@ This project focuses on designing and implementing a data pipeline specifically 
 
 ## Architecture Overview:
 
-![Architecture](.png)
+![Architecture](arch.png)
 
 ## Project Workflow:
 
